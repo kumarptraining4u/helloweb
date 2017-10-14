@@ -12,11 +12,7 @@
 	    <version>5.1.40</version>
 	</dependency>
 	
-	<dependency>
-	    <groupId>ecomm.oracle.driver</groupId>
-	    <artifactId>ojdbc</artifactId>
-	    <version>1.0</version>
-	</dependency>
+	
   </dependencies>
   
   <build>
